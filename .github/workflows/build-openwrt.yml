@@ -14,7 +14,7 @@ on:
   release:
     types: published
   push:
-    branches:
+    branches: 
       - master
     paths:
       - '.config'
